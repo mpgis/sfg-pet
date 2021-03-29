@@ -21,10 +21,7 @@
         <java.version>11</java.version>
     </properties>
 
-    <scm>
-        <developerConnection>scm:git:https://github.com/mpgis/sfg-pet.git/</developerConnection>
-        <tag>sfg-pet-0.0.1</tag>
-    </scm>
+
 
     <build>
         <plugins>
@@ -88,5 +85,10 @@
             </plugin>
         </plugins>
     </build>
+
+    <scm>
+        <developerConnection>scm:git:https://github.com/mpgis/sfg-pet.git/</developerConnection>
+        <tag>HEAD</tag>
+    </scm>
 
 </project>
