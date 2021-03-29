@@ -14,7 +14,7 @@
     </parent>
     <groupId>guru.springframework</groupId>
     <artifactId>sfg-pet</artifactId>
-    <version>0.0.3</version>
+    <version>0.0.4-SNAPSHOT</version>
     <name>sfg-pet</name>
     <description>SFG Pet Clinic Project</description>
     <properties>
@@ -88,7 +88,7 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/mpgis/sfg-pet.git/</developerConnection>
-        <tag>sfg-pet-0.0.3</tag>
+        <tag>HEAD</tag>
     </scm>
 
 </project>
