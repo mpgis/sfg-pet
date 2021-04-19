@@ -1,0 +1,14 @@
+guru\springfamework\sfgpet\model\BaseEntity.class
+guru\springfamework\sfgpet\serivces\OwnerService.class
+guru\springfamework\sfgpet\serivces\map\VetServiceMap.class
+guru\springfamework\sfgpet\model\PetType.class
+guru\springfamework\sfgpet\model\Vet.class
+guru\springfamework\sfgpet\serivces\map\PetServiceMap.class
+guru\springfamework\sfgpet\serivces\CrudService.class
+guru\springfamework\sfgpet\model\Owner.class
+guru\springfamework\sfgpet\serivces\PetSerivce.class
+guru\springfamework\sfgpet\serivces\map\AbstractMapService.class
+guru\springfamework\sfgpet\model\Pet.class
+guru\springfamework\sfgpet\serivces\VetService.class
+guru\springfamework\sfgpet\model\Person.class
+guru\springfamework\sfgpet\serivces\map\OwnerServiceMap.class
